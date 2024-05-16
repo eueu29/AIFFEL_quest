@@ -1,6 +1,6 @@
     
 
-### 출처 : [Meta]<https://about.fb.com/ko/news/2016/12/%EB%A7%88%ED%81%AC-%EC%A0%80%EC%BB%A4%EB%B2%84%EA%B7%B8-ai-%EB%B9%84%EC%84%9C-%EC%9E%90%EB%B9%84%EC%8A%A4%EC%97%90-%EB%8C%80%ED%95%B4-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8B%A4/>
+### 출처 : [Meta](https://about.fb.com/ko/news/2016/12/%EB%A7%88%ED%81%AC-%EC%A0%80%EC%BB%A4%EB%B2%84%EA%B7%B8-ai-%EB%B9%84%EC%84%9C-%EC%9E%90%EB%B9%84%EC%8A%A4%EC%97%90-%EB%8C%80%ED%95%B4-%EC%9D%B4%EC%95%BC%EA%B8%B0%ED%95%98%EB%8B%A4/)
 # 1. **마크 저커버그** 가 직접 만들어 본 AI 비서 ‘자비스’      
 ###### 2016년 12월 19일   
 ---
@@ -9,10 +9,10 @@
 
 지난 1월, Facebook CEO __마크 저커버그(Mark Zuckerberg)__ 가 <아이언맨>에 등장하는 ‘자비스’와 같은 AI 비서 개발에 도전하겠다는 개인적인 새해 목표를 밝힌 것을 기억하시나요?   
 **저커버그**가 1년간의 도전의 결과물인 자비스를 모두에게 소개했습니다.   
-먼저, **저커버그**가 자신의 ([Facebook 프로필]<https://www.facebook.com/zuck>)에 업로드한 동영상으로 자비스를 만나 볼까요?   
+먼저, **저커버그**가 자신의 [Facebook 프로필](https://www.facebook.com/zuck)에 업로드한 동영상으로 자비스를 만나 볼까요?   
    
 **저커버그**는 자비스 구축 과정에서 배우고 느낀 점을 글로 전하기도 했는데요, 아래에서 간략한 내용을 만나 보실 수 있습니다.   
-자비스는 어떻게 개발됐는지, 무엇을 할 수 있는지, 그리고 AI에 대해 저커버그는 어떤 생각을 하고 있는지 살펴 보세요. 원문은 ([해당 링크]<https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634>)에서 확인하실 수 있습니다.   
+자비스는 어떻게 개발됐는지, 무엇을 할 수 있는지, 그리고 AI에 대해 저커버그는 어떤 생각을 하고 있는지 살펴 보세요. 원문은 [해당 링크](https://www.facebook.com/notes/mark-zuckerberg/building-jarvis/10154361492931634)에서 확인하실 수 있습니다.   
   
  <br/>
     
@@ -85,7 +85,7 @@ AI와 사람 사이의 의사소통에 있어 문자가 중요한 부분을 차�
    
 -------------------------------------------------------------------------
    
-### 출처 : [인공지능산문]<https://www.aitimes.kr/news/articleView.html?idxno=27595>
+### 출처 : [인공지능산문](https://www.aitimes.kr/news/articleView.html?idxno=27595, "기사링크")
 # 2. GPT-4 발표한 오픈AI **'샘 알트만'**, "AI가 사회를 재구성할 것이며 위험을 인정합니다, 이것이 조금 두렵습니다"
 ###### 2023.03.19
 ---

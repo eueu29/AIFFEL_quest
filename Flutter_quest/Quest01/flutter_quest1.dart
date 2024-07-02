@@ -17,7 +17,7 @@ void startTimer(){
   Timer.periodic(const Duration(seconds: 1), (timer) {  // Timer.periodic 호출
     if (workTime != 0){          //작업시간이 0이 될때까지 timer 측정      
       workTime--;                //작업시간에서 -1초씩 빼기
-      print('작업시간: ${secondFormat(workTime)}');
+      print('작업시간: ${secondFormat(workTime)}');  // 시각화 처리(secondFormat)가 된 잔여작업시간이 출력됨
       
       if (workTime == 0){
         print('작업시간이 종료되었습니다. ${count %4 == 0? 15:5}분동안 휴식을 취해주세요.'); //count를 4로 나눈 몫이 0인가?의 질문에서 True이면 15가 출력되고, false면 5가 출력됨
@@ -25,7 +25,7 @@ void startTimer(){
     //작업시간 = 0 으로 총료됨, 휴식시간 시작
     } else if (restTime != 0){   //휴식시간이 0이 될때까지 timer 측정
       restTime--;                //휴식시간에서 -1초씩 빼기
-      print('휴식시간 ${secondFormat(restTime)}');
+      print('휴식시간 ${secondFormat(restTime)}');  // 시각화 처리(secondFormat)가 된 잔여휴식시간이 출력됨
 
     // 휴식시간 = 0으로 총료됨. 한사이클 종료
     } else{

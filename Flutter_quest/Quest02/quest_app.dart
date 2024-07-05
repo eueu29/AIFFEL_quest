@@ -67,7 +67,16 @@ class MyAppState extends State<MyApp> {                        //State 객체 �
   }
 }
 
-'''
+
+/* Expanded : Row, column, Flex이 자식위젯으로 사용 가능함.
+   부모이 남는 부분은 전부 채우는 식으로 화면에 나타난다. 
+   Expanded가 하나라면 나머지 칸을 전부 채우고, 여러개라면 1/n크기, 
+   Expanded가 아닌 요소와 함께라면 해당 부분은 먼저 할당하고 남은 부분을 차지한다.
+   주로 사용하는 방법 : UI상 나는 공간이 없게 화면을 꽉 채우고 싶을때, 특정 컴포넌트들을 폰 화면 넓이에 맞게 비율로 적용하고 싶을 때.AboutDialog
+   주로 나는 에러 : 기존 Row, Column등 자식들이 화면 사이즈를 넘겼거나, 남는 공간이 없을 경우 & 반드시 stateful 또는 statelesswidget을 가져야하며 RenderObjectWidget은 가질 수 없다
+*/
+
+/*
  회고
 
  임상운: 일단 책의 내용들을 활용 할 수 있어서 좋았고 난이도가 너무 높지 않아서 좋았다. 유진님과 번갈아 가면서 작성을 잘 하였고 주석도 유진님이 잘
@@ -79,4 +88,4 @@ class MyAppState extends State<MyApp> {                        //State 객체 �
  진짜 뭐라도 만들 수 있다! 에 한발짝 더 다가간 느낌이다.
  상운님이 알려주신 Expanded 개념이 너무 유용해서 한번 다시 공부해봐야겠다.
 
-'''
+*/

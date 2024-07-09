@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart'; 
-import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';   //fontawesome에서 icon을 가져오기위해 pubspec.yaml에도 등록하고 package 불러옴
 
 void main() => runApp(MyApp());      //main함수로 진입점 표시, MyApp 구동
              
@@ -22,11 +22,10 @@ class CatPage extends StatelessWidget {
   Widget build(BuildContext context) {                         //Build함수 실행
     return MaterialApp(
         home: Scaffold(
-             //앱의 상단 바
-            appBar: AppBar(
+            appBar: AppBar(                                    //앱의 상단 바
               leading: Container(
-                margin : EdgeInsets.all(10.0), 
-                child : FaIcon(FontAwesomeIcons.cat, size: 40, color: Color(0xffFF6666)),   //고양이 이모티콘 삽입
+                margin : EdgeInsets.all(10.0),                 //margin을 10픽셀 설정해줌
+                child : FaIcon(FontAwesomeIcons.cat, size: 40, color: Color(0xffFF6666)),   //fontawesome을 통해 고양이 이모티콘 삽입
                ), 
               backgroundColor: Color(0xffCCFFCC),        //배경색 입력
               title: Center(child: Text('First Page')),    //중앙정렬로 제목입력
@@ -68,7 +67,6 @@ class DogPage extends StatelessWidget {
     bool arg = ModalRoute.of(context)?.settings.arguments as bool;          //cat page에서 pushNamed를 통해 전달한 값을 ModalRoute.of를 통해 넘겨받음 
     return MaterialApp(
         home: Scaffold(
-             //앱의 상단 바
             appBar: AppBar(
               leading: Container(
                 margin : EdgeInsets.all(10.0), 

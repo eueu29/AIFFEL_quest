@@ -7,8 +7,8 @@ class MyApp extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      initialRoute : '/cat',                // 초기화면 
-      routes : {
+      initialRoute : '/cat',                // 초기화면은 catpage로 설정
+      routes : {                            // 앱 화면 등록
         '/cat' : (context) => CatPage(),
         '/dog' : (context) => DogPage()
       }
@@ -71,7 +71,7 @@ class DogPage extends StatelessWidget {
               leading: Container(
                 margin : EdgeInsets.all(10.0), 
                 child : FaIcon(FontAwesomeIcons.dog, size: 40, color: Color(0xff33FFFF)), 
-               ), //좌측 아이콘(leading구역) 설정
+               ), 
               backgroundColor: Color(0xffFFFF99),           
               title: Center(child: Text('Second Page')),    
             ),
@@ -108,7 +108,7 @@ class DogPage extends StatelessWidget {
 좀더 학습이 필요하다고 느낍니다. 분발하겠습니다.
 
 이유진:
-지금까지 학습한 것을 notion에 차곡차곡 정리했었는데, 덕분에 쉽게 찾아보면서 퀘스트를 할 수 있었던 것 같아 셀프칭찬을 잠시 해주었습니다.
+지금까지 학습한 것을 notion에 차곡차곡 정리했었는데, 덕분에 쉽게 찾아보면서 퀘스트를 할 수 있었던 것 같습니다.
 그리고 미션 중 값을 전달하는 과정이 생각보다 쉽지 않았는데 isCat = result로 값을 재할당하는 방법으로 해결할 수 있었습니다. 
 페이지를 넘겨주고, 값을 전달하는 과정에 대해 다시 한번 익힐 수 있어 좋았습니다.
 권영님의 엄청난 색감 센스 덕분에 appbar의 background와 icon의 색상을 이쁘게 꾸밀 수 있어 매우 만족했습니다 :)

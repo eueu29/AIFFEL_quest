@@ -50,7 +50,7 @@ class CatPage extends StatelessWidget {
                 )),
                 Expanded(                                    //Expanded, flex:1 을 image에도 설정해주어 화면배치
                   flex:1,
-                  child : Column(children: [Image.asset('images/kitten.jpg')],)
+                  child : Image.asset('images/kitten.jpg')
                 )
               ],
             )
@@ -92,7 +92,7 @@ class DogPage extends StatelessWidget {
                 )),
                 Expanded(
                   flex:1,
-                  child : Column(children: [Image.asset('images/puppy.jpg')],)
+                  child : Image.asset('images/puppy.jpg')
                 )
               ],
             )
@@ -109,7 +109,8 @@ class DogPage extends StatelessWidget {
 
 이유진:
 지금까지 학습한 것을 notion에 차곡차곡 정리했었는데, 덕분에 쉽게 찾아보면서 퀘스트를 할 수 있었던 것 같습니다.
-그리고 미션 중 값을 전달하는 과정이 생각보다 쉽지 않았는데 isCat = result로 값을 재할당하는 방법으로 해결할 수 있었습니다. 
+그리고 미션 중 값을 전달하는 과정이 생각보다 쉽지 않았는데 마지막에 pop을 통해 값을 전달했을 때, 해당 값을 catpage의 isCat 변수에 다시 재할당하는 과정이 쉽지 않았습니다.
+검색을 하던 끝에 isCat = result로 값을 재할당하고, 넘겨받는 값이 'bool이다'를 설정하기 위해 'as bool'을 더해주는 방법으로 해결할 수 있었습니다
 페이지를 넘겨주고, 값을 전달하는 과정에 대해 다시 한번 익힐 수 있어 좋았습니다.
 권영님의 엄청난 색감 센스 덕분에 appbar의 background와 icon의 색상을 이쁘게 꾸밀 수 있어 매우 만족했습니다 :)
 */

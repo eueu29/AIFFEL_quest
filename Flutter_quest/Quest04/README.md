@@ -11,6 +11,9 @@
 ![kakao_prototyping_gif](https://github.com/eueu29/AIFFEL_quest/assets/161274014/1337de6b-1809-4fc5-a905-28c36c9fa38e)  
  <br> <br>
 ## 페이지 구현  
+![result_1](https://github.com/eueu29/AIFFEL_quest/assets/161274014/9049f56b-f368-42b6-9573-8aa2f1e18c9f)
+![result_2](https://github.com/eueu29/AIFFEL_quest/assets/161274014/f2aa30d0-44e0-4d76-89dd-d8f89f67cc22)
+![result_3](https://github.com/eueu29/AIFFEL_quest/assets/161274014/b57fc17a-a788-4f85-9523-b6f70bccf71f)
 
  <br> <br>  
 ## 구현영상

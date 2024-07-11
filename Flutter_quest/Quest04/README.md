@@ -18,6 +18,10 @@
  <br> <br>  
 ## 참고 학습자료  
 github에 동영상 삽입방법 참고함 : https://ndb796.tistory.com/557
+getX 사용법:   
+- https://pub.dev/packages/get#installing
+- https://velog.io/@mi-fasol/Flutter-getX-%ED%99%9C%EC%9A%A9-%EB%9D%BC%EC%9A%B0%ED%8C%85-%EA%B4%80%EB%A6%AC
+- https://salmonpack.tistory.com/27
  <br> <br>  
 ## 회고  
 

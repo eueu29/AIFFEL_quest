@@ -4,10 +4,14 @@
 - 앱 이름 : 카카오톡<br><br>
  <br> <br>
 ## 앱 구조도    <br>
-![page1](https://github.com/eueu29/AIFFEL_quest/assets/161274014/3a20cbb9-267b-48b0-977c-75f38b0af43c)
-![page2](https://github.com/eueu29/AIFFEL_quest/assets/161274014/e1098439-4b52-435f-95f2-aa927207db9c)  
+![Untitled (1)](https://github.com/user-attachments/assets/92038be4-3d64-42e7-9c0a-3cb6ff8e71e2) 
+![Untitled](https://github.com/user-attachments/assets/f1866ad7-52e6-4fa3-b515-744c396a89b6)
  <br> <br>
 ## 앱 와이어프레임(사용툴 : 파워포인트) <br>
+![page1](https://github.com/eueu29/AIFFEL_quest/assets/161274014/3a20cbb9-267b-48b0-977c-75f38b0af43c)
+![page2](https://github.com/eueu29/AIFFEL_quest/assets/161274014/e1098439-4b52-435f-95f2-aa927207db9c)  
+<br><br>
+## 프로토타이핑 구현 <br>
 ![kakao_prototyping_gif](https://github.com/eueu29/AIFFEL_quest/assets/161274014/1337de6b-1809-4fc5-a905-28c36c9fa38e)  
  <br> <br>
 ## 페이지 구현  

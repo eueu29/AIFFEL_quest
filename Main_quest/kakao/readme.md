@@ -20,6 +20,11 @@
  <br> <br>  
 ## 참고 학습자료  
 github에 동영상 삽입방법 참고함 : https://ndb796.tistory.com/557 <br>
+지하철 : <br>
+https://data.seoul.go.kr/dataList/OA-15799/A/1/datasetView.do <br>
+https://www.data.go.kr/data/15125683/openapi.do <br>
+https://smss.seoulmetro.co.kr/traininfo/traininfoUserView.do <br>
+https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15000414#/tab_layer_detail_function <br>
 Gemini : <br>
 https://colab.research.google.com/drive/1jJK9lDVJ3IYDWdVgUEa2nUFzyZ09rUH8#scrollTo=6SluJi0dFcIY <br>
 https://ai.google.dev/gemini-api/docs/get-started/tutorial?hl=ko&_gl=1*1awq7o6*_up*MQ..*_ga*MjE5NzQzNTI3LjE3MjEzNjgxNzM.*_ga_P1DBVKWT6V*MTcyMTM2ODE3Mi4xLjAuMTcyMTM2ODE3Mi4wLjAuMTk5NDM0NDEx&lang=python#generate-text-from-text-and-image-input <br>

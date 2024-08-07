@@ -45,7 +45,7 @@ landmark detection : dlib모듈
 - 아쉽게도 마지막날 참석을 하지 못하셔서 회고는 작성하시지 못했습니다.
 ---
 <br>
-## 참고 학습자료  
+## 참고 학습자료 <br>
 - https://blog.naver.com/dnjswns2280/221918816575 <br>
 - https://github.com/kairess/dog_face_detector <br>
 - https://github.com/kairess/cat_hipsterizer <br>

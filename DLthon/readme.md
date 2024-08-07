@@ -13,14 +13,7 @@ DLthon : HOTDOG팀<br>
 classification : Xception<br>
 bounding box detection : YOLOv8n<br>
 landmark detection : dlib모듈
-
-## 구현영상
-
-
-
  <br> <br>  
-## 참고 학습자료  
-
 ## 회고  
 ##### 박진석 :  
 - **신중한 데이터 전처리 필요**  데이터를 어떻게 전처리하느냐에 따라 정확도/검증 정확도가 15%이상 차이가 났다.  
@@ -40,7 +33,19 @@ landmark detection : dlib모듈
 - NGROK을 통해 서버와 클라이언트가 데이터를 주고받는데 이또한 고정 URL이 아니라 서버를 종료하거나 APP을 종료할시 바뀌는 주소이다. 매번 새로 주소루트를 바꿔줘야 한다.
 ---
 ##### 이유진:
-- 
+---
+<br>
+## 참고 학습자료  
+- https://blog.naver.com/dnjswns2280/221918816575  
+- https://github.com/kairess/dog_face_detector
+- https://github.com/kairess/cat_hipsterizer
+- https://suy379.tistory.com/92
+- https://blog.naver.com/tommybee/222752809075
+- https://docs.ultralytics.com/modes/train/#apple-m1-and-m2-mps-training
+- https://blog.naver.com/whitegreen_/223432155198
+- https://humansintheloop.org/10-of-the-best-open-source-annotation-tools-for-computer-vision/?utm_term=&utm_campaign=Humans+in+the+Loop+Brand+Campaign&utm_source=adwords&utm_medium=ppc&hsa_acc=7694807070&hsa_cam=17031828146&hsa_grp=139977411321&hsa_ad=596553673906&hsa_src=g&hsa_tgt=dsa-19959388920&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5MvFhbJOs96xxrcZrxR8u4PiQTgtEnyA6aBSxXQ32oXkjFs62VIzAwaAhW8EALw_wcB
+- https://www.kaggle.com/datasets/georgemartvel/catflw/data
+
 
 
 

@@ -46,15 +46,15 @@ landmark detection : dlib모듈
 ---
 <br>
 ## 참고 학습자료  
-- https://blog.naver.com/dnjswns2280/221918816575  
-- https://github.com/kairess/dog_face_detector
-- https://github.com/kairess/cat_hipsterizer
-- https://suy379.tistory.com/92
-- https://blog.naver.com/tommybee/222752809075
-- https://docs.ultralytics.com/modes/train/#apple-m1-and-m2-mps-training
-- https://blog.naver.com/whitegreen_/223432155198
-- https://humansintheloop.org/10-of-the-best-open-source-annotation-tools-for-computer-vision/?utm_term=&utm_campaign=Humans+in+the+Loop+Brand+Campaign&utm_source=adwords&utm_medium=ppc&hsa_acc=7694807070&hsa_cam=17031828146&hsa_grp=139977411321&hsa_ad=596553673906&hsa_src=g&hsa_tgt=dsa-19959388920&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5MvFhbJOs96xxrcZrxR8u4PiQTgtEnyA6aBSxXQ32oXkjFs62VIzAwaAhW8EALw_wcB
-- https://www.kaggle.com/datasets/georgemartvel/catflw/data
+- https://blog.naver.com/dnjswns2280/221918816575 <br>
+- https://github.com/kairess/dog_face_detector <br>
+- https://github.com/kairess/cat_hipsterizer <br>
+- https://suy379.tistory.com/92 <br>
+- https://blog.naver.com/tommybee/222752809075 <br>
+- https://docs.ultralytics.com/modes/train/#apple-m1-and-m2-mps-training <br>
+- https://blog.naver.com/whitegreen_/223432155198 <br>
+- https://humansintheloop.org/10-of-the-best-open-source-annotation-tools-for-computer-vision/? utm_term=&utm_campaign=Humans+in+the+Loop+Brand+Campaign&utm_source=adwords&utm_medium=ppc&hsa_acc=7694807070&hsa_cam=17031828146&hsa_grp=139977411321&hsa_ad=596553673906&hsa_src=g&hsa_tgt=dsa-19959388920&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5MvFhbJOs96xxrcZrxR8u4PiQTgtEnyA6aBSxXQ32oXkjFs62VIzAwaAhW8EALw_wcB <br>
+- https://www.kaggle.com/datasets/georgemartvel/catflw/data <br>
 
 
 
